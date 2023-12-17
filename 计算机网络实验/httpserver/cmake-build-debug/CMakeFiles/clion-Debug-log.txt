@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/gowi/CLionProjects/httpserver -B /Users/gowi/CLionProjects/httpserver/cmake-build-debug
+-- The C compiler identification is AppleClang 15.0.0.15000040
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found OpenSSL: /opt/homebrew/lib/libcrypto.dylib (found version "3.2.0")  
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/gowi/CLionProjects/httpserver/cmake-build-debug
